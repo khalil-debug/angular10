@@ -156,6 +156,8 @@ readonly PhotoUrl ="http://127.0.0.1:8000/media/";
     return this.http.post(this.APIUrl+'/SaveFile',val);
   }
 
+
   
+
 
 }
